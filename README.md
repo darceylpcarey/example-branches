@@ -3,6 +3,8 @@ ex-branches blue
 
 This repository contains several commits on `master` branch and two on feature branches and helps demonstrate branching and merging Git commands.
 
+I am going my own way.  FORK! :fork:
+
 ## Usage
 
 * Using `git merge` to integrate branches
